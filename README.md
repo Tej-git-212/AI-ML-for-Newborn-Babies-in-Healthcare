@@ -3,9 +3,9 @@
 
 ### Hey guys👋 myself Samarth, I'm the Program Admin at DevIncept for the 30-day open-source contribution program(DCP2021).
 
-I am super excited to share with you all about this project which helps to save lives of many newborn babies which are at a very high-risk, especially the ones that are born before 9 months of pregnancy (also called as Preterm babies).
+#### I am super excited to share with you all about this project which helps to save lives of many newborn babies which are at a very high-risk, especially the ones that are born before 9 months of pregnancy (also called as Preterm babies).
 
-#### Saving a life of a baby just by writing some codes and implementing ML algorithms?! Is it ever possible🤔??
+### Saving a life of a baby just by writing some codes and implementing ML algorithms?! Is it ever possible🤔??
 
 ### Yes, it is possible.
 
