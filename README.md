@@ -26,4 +26,9 @@
 - OpenCV --> `pip install opencv-python`
 - Numpy --> `pip install numpy`
 
+#### For any queries, you can always contact me via:
+- Email: [mrsamarth18@gmail.com]()
+- LinkedIn: [https://www.linkedin.com/in/samarthmr/]()
+- Mobile: [+919902916192]()(Whatsapp only)
+
 # I wish to see you all soon.
