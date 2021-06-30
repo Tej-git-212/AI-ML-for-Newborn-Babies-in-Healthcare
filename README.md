@@ -26,4 +26,4 @@
 - OpenCV --> `pip install opencv-python`
 - Numpy --> `pip install numpy`
 
-# I wish to see you soon guys.
+# I wish to see you all soon.
