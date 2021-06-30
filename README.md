@@ -20,7 +20,7 @@
 #### More details will be shared with you all once you take up this project for contributing. 
 
 ### Tech Stack required:
-- Python software installed --> You can install it from here if not installed previously - [https://www.python.org/]
+- Python software installed --> You can install it from here if not installed previously - [https://www.python.org/]()
 - Any python supporting IDE(Jupyter Notebook/Pycharm)
 - Tensorflow --> `pip install tensorflow`
 - OpenCV --> `pip install opencv-python`
