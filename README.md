@@ -1,5 +1,5 @@
 # AI-ML-for-Newborn-Babies-in-Healthcare
-## Shouting out to all of you who are interested in open-source contribution in the field of Healthcare using modern technologies like Artificial Intelligence(AI), Machine Learning(ML), Deep Learning(DL) and Computer Vision(OpenCV) and by using the most famous and easy programming language - Python, this is the place where you can contribute, learn and get a wonderful experience to showcase your skills in the future !!
+### Shouting out to all of you who are interested in open-source contribution in the field of Healthcare using modern technologies like **Artificial Intelligence(AI), Machine Learning(ML), Deep Learning(DL) and Computer Vision(OpenCV)** and by using the most famous and easy programming language - **Python**, this is the place where you can contribute, learn and get a wonderful experience to showcase your skills in the future !!
 
 ### Hey guys👋 myself Samarth, I'm the Program Admin at DevIncept for the 30-day open-source contribution program(DCP2021).
 
