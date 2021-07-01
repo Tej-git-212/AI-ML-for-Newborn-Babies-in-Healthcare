@@ -28,6 +28,8 @@
 1) **Mild/No Pain (Scale 0 to 2)**
 2) **Moderate Pain (Scale 3 to 6)**
 3) **Severe Pain (Scale 7 to 10)**
+
+![image](https://user-images.githubusercontent.com/54024433/124125201-f7117c80-da96-11eb-8fed-b70c5fc28b4f.png)
     
 #### Based on this classification algorithm, and based on our Data Analysis obtained through the babies Facial expressions, the doctors can get to know the Low-risk and High-risk behaviour from the babies and focus on giving required attention and proper treatment to the babies that are under high-risk severity and can help their life from disasters.
 
