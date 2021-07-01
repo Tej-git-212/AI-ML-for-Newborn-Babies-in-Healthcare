@@ -18,16 +18,16 @@
 #### You will be accessing the condition of the baby at regular intervals using Pain Scale Assessment technique. To build the pain-scale model, we use **Machine Learning** algorithms to train the raw image/video dataset, and for obtaining frames of images from our model i.e., the baby condition's video dataset, we use **OpenCV** technique. Hence by implementing these techniques, we can help doctors by providing the continous monitoring report on the baby's health condition and help them to save the lives of those babies which are at a very high-risk of survival.
 
 #### The main idea of this project is to develop a Machine Learning algorithm for classifying the facial expressions of Newborn babies in the Hospital as per the Pain Scale Assessment on a scale of 10. It involves 5 expressions mainly, they are:
-- 1. Neutral
-- 2. Pain due to Hunger
-- 3. Pain due to Discomfort
-- 4. Pain due to physical body pains/internal organ pains.
-- 5. Pain due to Attention-seeking.
+- **Neutral**
+- **Pain due to Hunger**
+- **Pain due to Discomfort**
+- **Pain due to physical body pains/internal organ pains**
+- **Pain due to Attention-seeking**
 
 #### These 5 pains can be classified under pain scale into 3 different categories. They are:
-    1. Mild/No Pain (Scale 0 to 2)
-    2. Moderate Pain (Scale 3 to 6)
-    3. Severe Pain (Scale 7 to 10)
+    - Mild/No Pain (Scale 0 to 2)
+    - Moderate Pain (Scale 3 to 6)
+    - Severe Pain (Scale 7 to 10)
     
 #### Based on this classification algorithm, and based on our Data Analysis obtained through the babies Facial expressions, the doctors can get to know the Low-risk and High-risk behaviour from the babies and focus on giving required attention and proper treatment to the babies that are under high-risk severity and can help their life from disasters.
 
