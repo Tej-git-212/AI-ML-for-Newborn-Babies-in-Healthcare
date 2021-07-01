@@ -30,7 +30,7 @@
 3) **Severe Pain (Scale 7 to 10)**
 
 <p align="center">
-    <img src="![image](https://user-images.githubusercontent.com/54024433/124125201-f7117c80-da96-11eb-8fed-b70c5fc28b4f.png)" alt="Pain Scale" 	
+![image](https://user-images.githubusercontent.com/54024433/124125201-f7117c80-da96-11eb-8fed-b70c5fc28b4f.png)
          width="1000"
 </p>
     
