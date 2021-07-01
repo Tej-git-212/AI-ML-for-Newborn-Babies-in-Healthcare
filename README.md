@@ -30,18 +30,18 @@
 3) **Severe Pain (Scale 7 to 10)**
 
 <p align="center">
-![image](https://user-images.githubusercontent.com/54024433/124125201-f7117c80-da96-11eb-8fed-b70c5fc28b4f.png)
-         width="1000"
+         <img src="https://user-images.githubusercontent.com/54024433/124125201-f7117c80-da96-11eb-8fed-b70c5fc28b4f.png" alt="Pain Scale"
+              width="1000"
 </p>
     
 #### Based on this classification algorithm, and based on our Data Analysis obtained through the babies Facial expressions, the doctors can get to know the Low-risk and High-risk behaviour from the babies and focus on giving required attention and proper treatment to the babies that are under high-risk severity and can help their life from disasters.
 
 ### Tech Stack required:
-- Python software installed --> You can install it from here if not installed previously - [https://www.python.org/]()
-- Any python supporting IDE(Jupyter Notebook/Pycharm)
-- Tensorflow --> `pip install tensorflow`
-- OpenCV --> `pip install opencv-python`
-- Numpy --> `pip install numpy`
+- **Python software installed** --> You can install it from here if not installed previously - [https://www.python.org/]()
+- **Any python supporting IDE(Jupyter Notebook/Pycharm)**
+- **Tensorflow** --> `pip install tensorflow`
+- **OpenCV** --> `pip install opencv-python`
+- **Numpy** --> `pip install numpy`
 
 #### For any queries, you can always contact me via:
 - Email: [mrsamarth18@gmail.com]()
